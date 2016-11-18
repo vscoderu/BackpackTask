@@ -1,0 +1,9 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.pdb
